@@ -1,4 +1,3 @@
 # RedBaron
  Personal Site
- For testing
- 
+ for testing
